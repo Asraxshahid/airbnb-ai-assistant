@@ -28,6 +28,5 @@ https://airbnb-ai-assistant.streamlit.app/
 Use Case
 Designed for Airbnb hosts to automate guest support and improve stay experience with instant responses and local recommendations.
 
-👨‍💻 Author
-
-Your Name
+Author
+Asra Shahid
